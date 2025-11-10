@@ -1,0 +1,13 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# Go build
+backend/meihua.db
+backend/bin
+*.log
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
